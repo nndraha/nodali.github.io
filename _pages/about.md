@@ -26,4 +26,4 @@ Pengalaman Riset
 
 Afiliasi 
 =====
-![BRIN](images/logo_brin.png) ![PRTPP](images/logo_prtpp.png)
+<img src = "images/logo_brin.png" width = "60px" /> ![PRTPP](images/logo_prtpp.png)
