@@ -1,3 +1,23 @@
+talktomodel:nodali123:
+  title: >
+    Assessment and validation of predictive growth models for locally isolated <i>Salmonella enterica</i> and <i>Listeria monocytogenes</i> in alfalfa sprouts at various temperatures
+  authors:
+    - Nodali Ndraha
+    - Chia Hsuan Lin
+    - Goh Ai Ping 
+    - Gia Dieu Tran
+    - Li‐Ming Su
+    - Chien Li Huang
+    - Cheng‐Quan Chen
+    - Shwu‐Jene Tsai
+    - Hsin‐I Hsiao
+  year: 2024
+  type: Journal
+  doi: 10.1111/jfs.13171
+  abstract: >
+    Sprouts are popular due to their high nutritional content, including vitamins, minerals, antioxidants, and enzymes. However, the conditions favorable for sprouting, such as warm and humid environments, are also ideal for the growth of bacteria, including food-borne pathogens. Here, we analyzed the growth and developed predictive models of locally isolated and commercial strains of <i>Salmonella enterica</i> and <i>Listeria monocytogenes</i> in alfalfa sprouts under various constant temperatures, ranging from 5°C to 25°C. Our findings indicated that these pathogens could grow at 5°C in sprouts, albeit with a low growth rate. A rapid increase in concentration occurred at temperatures of 10°C and above. The fitted models demonstrated high performance, with R^2 values ranging from 0.964 to 0.997 and RMSE values ranging from 0.15 to 0.51, respectively. Based on the fitted values, bias factor (A<sub>f</sub>) values varied between 1.01 and 1.06, with all accuracy factor (B<sub>f</sub>) values at 1.00. Acceptable prediction zone (APZ) values ranged from 81.8% to 100%. Validation of the models under dynamic temperature conditions for specific strains showed acceptable performance. This study enhances our understanding of <i>S. enterica</i> and <i>L. monocytogenes</i> growth in alfalfa sprouts. The findings of this study could be used to improve the risk assessment of these pathogens in alfalfa sprouts.
+
+
 plottwist:emnlp24:
   title: "PlotTwist: Multimodal Models Don't Comprehend Simple Chart Details"
   authors:
@@ -238,31 +258,7 @@ rumors:ipm23:
       link: https://www.sciencedirect.com/science/article/pii/S0306457322002175/pdfft?md5=dfcd058eadba47288dfbf832b44e7e24&pid=1-s2.0-S0306457322002175-main.pdf
   grants: [mcs]
 
-talktomodel:ni23:
-  title: >
-    Explaining machine learning models with interactive natural language conversations using TalkToModel
-  authors:
-    - dslack
-    - Satyapriya Krishna
-    - hima
-    - sameer
-  venue: Nature Machine Intelligence
-  year: 2023
-  type: Journal
-  doi: 10.1038/s42256-023-00692-8
-  abstract: >
-    Practitioners increasingly use machine learning (ML) models, yet models have become more complex and harder to understand. To understand complex models, researchers have proposed techniques to explain model predictions. However, practitioners struggle to use explainability methods because they do not know which explanation to choose and how to interpret the explanation. Here we address the challenge of using explainability methods by proposing TalkToModel: an interactive dialogue system that explains ML models through natural language conversations. TalkToModel consists of three components: an adaptive dialogue engine that interprets natural language and generates meaningful responses; an execution component that constructs the explanations used in the conversation; and a conversational interface. In real-world evaluations, 73% of healthcare workers agreed they would use TalkToModel over existing systems for understanding a disease prediction model, and 85% of ML professionals agreed TalkToModel was easier to use, demonstrating that TalkToModel is highly effective for model explainability.
-  links:
-    - name: Nature page
-      link: "https://www.nature.com/articles/s42256-023-00692-8"
-    - name: PDF
-      link: "https://www.nature.com/articles/s42256-023-00692-8.pdf"
-    - name: Code
-      link: "https://github.com/dylan-slack/TalkToModel"
-    - name: ArXiV
-      link: https://arxiv.org/abs/2207.04154
-    - name: Demo
-      link: https://nlp.ics.uci.edu/talk-to-healthcare-model/
+
 
 adaptqa:acl23:
   title: >
