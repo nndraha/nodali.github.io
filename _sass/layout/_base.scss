@@ -182,6 +182,13 @@ li ol {
    ========================================================================== */
 
 /* Figures and images */
+img[alt=logo_brin] { 
+  width: 60px; 
+}
+
+img[alt=logo_prtpp] { 
+  width: 60px; 
+}
 
 figure {
   display: -webkit-box;
