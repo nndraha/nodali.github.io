@@ -15,9 +15,9 @@ Keahlian saya meluas ke sistem pengendalian pangan, pengelolaan rantai dingin ma
 
 Pendidikan 
 ======
-S1 : Universitas Sumatera Utara, Keteknikan Pertanian
-S2 : National Taiwan Ocean University, Food Science
-S3 : National Taiwan Ocean University, Food Science
+* S1 : Universitas Sumatera Utara, Keteknikan Pertanian
+* S2 : National Taiwan Ocean University, Food Science
+* S3 : National Taiwan Ocean University, Food Science
 
 Pengalaman Riset 
 ======

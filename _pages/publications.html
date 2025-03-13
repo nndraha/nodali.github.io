@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 
-<ol>
+<ul>
   <li><strong>Ndraha, N.</strong>, Lin, C. H., Ping, G. A., Tran, G. D., Su, L. M., Huang, C. L., … &amp; Hsiao, H. I. (2024). Assessment and validation of predictive growth models for locally isolated <em>Salmonella enterica </em>and <em>Listeria monocytogenes</em> in alfalfa sprouts at various temperatures. <em>Journal of Food Safety</em>, 44(5), e13171.</li>
   <li><strong>Ndraha, N.</strong>, Lin, H. Y., Hsiao, H. I., &amp; Lin, H. J. (2024). Managing the microbiological safety of tilapia from farm to consumer. <em>Comprehensive Reviews in Food Science and Food Safety</em>, 23(5), e70023.</li>
   <li><strong>Ndraha, N.</strong>, Lin, H. Y., Wang, C. Y., Hsiao, H. I., &amp; Lin, H. J. (2023). Rapid detection methods for foodborne pathogens based on nucleic acid amplification: Recent advances, remaining challenges, and possible opportunities. <em>Food Chemistry: Molecular Sciences</em>, 7, 100183.</li>
@@ -31,30 +31,12 @@ author_profile: true
   <li><strong>Ndraha, N.</strong>, Sung, W. C., &amp; Hsiao, H. I. (2019). Evaluation of the cold chain management options to preserve the shelf life of frozen shrimps: A case study in the home delivery services in Taiwan. <em>Journal of Food Engineering</em>, 242, 21-30.</li>
   <li><strong>Ndraha, N.</strong>, Hsiao, H. I., Vlajic, J., Yang, M. F., &amp; Lin, H. T. V. (2018). Time-temperature abuse in the food cold chain: Review of issues, challenges, and recommendations. <em>Food Control</em>, 89, 12-21.</li>
   <li><strong>Ndraha, N.</strong>, Hsiao, H. I., &amp; Wang, W. C. C. (2017). Comparative study of imported food control systems of Taiwan, Japan, the United States, and the European Union. <em>Food Control</em>, 78, 331-341.</li>
-</ol>
+</ul>
 
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+
 
 
 
