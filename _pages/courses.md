@@ -22,8 +22,6 @@ Keunggulan Program:
 * Co-pembimbing Profesional.
 * Publikasi ilmiah.
 
-<br>
-
 Tertarik?
 ---------
 Daftarkan dirimu melalui tautan ini: https://bit.ly/TABRIN dan pilih topik KEAMANAN MIKROBA PRODUK PANGAN.<br><br>
