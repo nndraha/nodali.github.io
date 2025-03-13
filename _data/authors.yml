@@ -1,13 +1,12 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+  name        : "Dr. Nodali Ndraha"
+  uri         : "https://www.nodali.com"
+  email       : "nodali.ndraha@brin.go.id"
+  bio         : "Nodali Ndraha"
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  twitter     : "NodaliX"
 
 Name2 Name2:
   name        : "Name2 Name2"
