@@ -8,12 +8,12 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Program Bimbingan"
-    url: /courses/    
-    
   - title: "Portfolio"
     url: /portfolio/
-        
+
+  - title: "Program Bimbingan"
+    url: /courses/    
+            
   - title: "Blog Posts"
     url: /year-archive/
     
