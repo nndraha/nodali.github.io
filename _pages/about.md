@@ -21,8 +21,11 @@ Pendidikan
 
 Pengalaman Riset 
 =====
-
 * Pengembangan deteksi patogen <em>Salmonella</em> dan <em>L. monocytogenes</em> pada daging ayam menggunakan pendekatan molekuler berbasis asam nukleat
 * Kajian potensi dampak perubahan iklim terhadap risiko keamanan mikroba <em>V. parahaemolyticus</em> pada tiram laut
 * Pemodelan prediktif terhadap kemunculan bakteri <em>V. parahaemolyticus</em> pada tiram laut mentah.
 * Pemodelan prediktif terhadap pertumbuhan dan perkembangan bakteri <em>Salmonella dan </em>L. monocytogenes</em> pada selada dan kecambah sayuran.
+
+Afiliasi 
+=====
+![BRIN](images/logo_brin.png) ![PRTPP](images/logo_prtpp.png)
