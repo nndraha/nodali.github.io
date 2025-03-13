@@ -19,10 +19,11 @@ Pendidikan
 
 Pengalaman Riset 
 =====
-* Pengembangan deteksi patogen <em>Salmonella</em> dan <em>L. monocytogenes</em> pada daging ayam menggunakan pendekatan molekuler berbasis asam nukleat
+* Pengembangan deteksi patogen <em>Salmonella</em> dan <em>L. monocytogenes</em> pada daging ayam menggunakan pendekatan molekuler berbasis asam nukleat yang dikombinasikan dengan teknologi elektroforesis kapilaritas
 * Kajian potensi dampak perubahan iklim terhadap risiko keamanan mikroba <em>V. parahaemolyticus</em> pada tiram laut
 * Pemodelan prediktif terhadap kemunculan bakteri <em>V. parahaemolyticus</em> pada tiram laut mentah.
 * Pemodelan prediktif terhadap pertumbuhan dan perkembangan bakteri <em>Salmonella</em> dan <em>L. monocytogenes</em> pada selada dan kecambah sayuran.
+* Pemodelan prediktif terhadap perubahan mutu udang segar yang ditransportasikan melalui layanan home-delivery
 
 Afiliasi 
 =====
