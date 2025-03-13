@@ -1,11 +1,14 @@
 # Authors
 
 Name Name:
-  name        : "Dr. Nodali Ndraha"
+  name        : 
+    first     : "Nodali"
+    last      : "Ndraha"
   uri         : "https://www.nodali.com"
+  website     : "https://www.nodali.com"
   email       : "nodali.ndraha@brin.go.id"
   bio         : "Nodali Ndraha"
-  avatar      : "bio-photo-2.jpg"
+  avatar      : "profile.jpg"
   twitter     : "NodaliX"
 
 Name2 Name2:
@@ -15,3 +18,10 @@ Name2 Name2:
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
+
+
+nodali:
+  name:
+    first: "Nodali"
+    last: "Ndraha"
+  website: "https://www.nodali.com"
