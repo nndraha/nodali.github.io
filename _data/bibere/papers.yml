@@ -1,4 +1,4 @@
-talktomodel:nodali123:
+talktomodel:nodali:
   title: >
     Assessment and validation of predictive growth models for locally isolated <i>Salmonella enterica</i> and <i>Listeria monocytogenes</i> in alfalfa sprouts at various temperatures
   authors:
@@ -13,6 +13,7 @@ talktomodel:nodali123:
     - Hsin‐I Hsiao
   year: 2024
   type: Journal
+  pages: e13171
   doi: 10.1111/jfs.13171
   abstract: >
     Sprouts are popular due to their high nutritional content, including vitamins, minerals, antioxidants, and enzymes. However, the conditions favorable for sprouting, such as warm and humid environments, are also ideal for the growth of bacteria, including food-borne pathogens. Here, we analyzed the growth and developed predictive models of locally isolated and commercial strains of <i>Salmonella enterica</i> and <i>Listeria monocytogenes</i> in alfalfa sprouts under various constant temperatures, ranging from 5°C to 25°C. Our findings indicated that these pathogens could grow at 5°C in sprouts, albeit with a low growth rate. A rapid increase in concentration occurred at temperatures of 10°C and above. The fitted models demonstrated high performance, with R^2 values ranging from 0.964 to 0.997 and RMSE values ranging from 0.15 to 0.51, respectively. Based on the fitted values, bias factor (A<sub>f</sub>) values varied between 1.01 and 1.06, with all accuracy factor (B<sub>f</sub>) values at 1.00. Acceptable prediction zone (APZ) values ranged from 81.8% to 100%. Validation of the models under dynamic temperature conditions for specific strains showed acceptable performance. This study enhances our understanding of <i>S. enterica</i> and <i>L. monocytogenes</i> growth in alfalfa sprouts. The findings of this study could be used to improve the risk assessment of these pathogens in alfalfa sprouts.
