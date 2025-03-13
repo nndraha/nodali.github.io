@@ -14,14 +14,14 @@ main:
   - title: "Program Bimbingan"
     url: /courses/    
             
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "Mahasiswa"
     url: /mahasiswa/  
 
   - title: "Laboratorium"
     url: /lab/
+
+  - title: "Blog Posts"
+    url: /year-archive/
     
 #  - title: "Guide"
 #    url: /markdown/
