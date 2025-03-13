@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "nodali.bsky.social" # "bsky.app" # Replace this with you Bluesky username
   facebook         : "nndraha2021"
   flickr           : # Username
   foursquare       : # Username
@@ -94,7 +94,7 @@ talkmap_link             : false      #change to true to add link to talkmap on 
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "nodali"
+    shortname            : nodali
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
