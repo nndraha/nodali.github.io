@@ -27,6 +27,8 @@ Tertarik?
 Daftarkan dirimu melalui tautan ini: https://bit.ly/TABRIN dan pilih topik KEAMANAN MIKROBA PRODUK PANGAN.<br><br>
 Info lebih lanjut, hubungi Dr. Nodali Ndraha, email: nodali.ndraha@brin.go.id<br>
 
+<img src = "images/poster_TA.png" width = "60%">
+
 {% include base_path %}
 
 {% for post in site.courses reversed %}
