@@ -199,6 +199,14 @@ figure {
     margin-bottom: 1em;
   }
 
+  img[alt=logo_brin] { 
+    width: 60px; 
+  }
+
+  img[alt=logo_prtpp] { 
+    width: 60px; 
+  }
+
   img {
     width: 100%;
     border-radius: $border-radius;
