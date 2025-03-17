@@ -12,13 +12,16 @@ main:
     url: /portfolio/
 
   - title: "Program Bimbingan"
-    url: /courses/    
+    url: /bimbing/    
             
   - title: "Mahasiswa"
     url: /mahasiswa/  
 
   - title: "Laboratorium"
     url: /lab/
+
+  - title: "Courses"
+    url: /courses/
 
 #  - title: "Blog Posts"
 #    url: /year-archive/

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Program Bimbingan Mahasiswa"
-permalink: /courses/
+permalink: /bimbing/
 author_profile: true
 ---
 
