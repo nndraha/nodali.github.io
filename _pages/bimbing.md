@@ -5,8 +5,6 @@ permalink: /bimbing/
 author_profile: true
 ---
 
-Bimbingan Tugas Akhir S1/S2/S3
-----
 <table>
   <thead>
     <tr>
