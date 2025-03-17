@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Pendanaan Riset dan Kerja Sama"
+title: "Courses"
 permalink: /courses/
 author_profile: true
 ---
