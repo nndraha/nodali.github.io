@@ -32,7 +32,7 @@ author_profile: true
           <li>Publikasi ilmiah.</li>
         </ul>
         <b>Tertarik?</b>
-        Daftarkan dirimu melalui tautan ini: <src url = "https://bit.ly/TABRIN">https://bit.ly/TABRIN </src> dan pilih topik KEAMANAN MIKROBA PRODUK PANGAN.<br>
+        Daftarkan dirimu melalui tautan ini: <url src= "https://bit.ly/TABRIN">https://bit.ly/TABRIN </url> dan pilih topik KEAMANAN MIKROBA PRODUK PANGAN.<br>
         Info lebih lanjut, hubungi Dr. Nodali Ndraha, email: nodali.ndraha@brin.go.id
       </td>
       <td style = "vertical-align:top"><img src = "https://nndraha.github.io/nodali.github.io/images/poster_TA.png" width = "100%"></td>
