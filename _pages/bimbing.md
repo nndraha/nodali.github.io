@@ -34,7 +34,7 @@ Bimbingan Tugas Akhir S1/S2/S3
           <li>Publikasi ilmiah.</li>
         </ul>
       </td>
-      <td><img src = "https://nndraha.github.io/nodali.github.io/images/poster_TA.png" width = "55%"></td>
+      <td><img src = "https://nndraha.github.io/nodali.github.io/images/poster_TA.png" width = "100%"></td>
     </tr>
   </tbody>
 </table>
