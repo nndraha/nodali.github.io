@@ -24,6 +24,22 @@ author_profile: true
         <td>12 minggu</td>
         <td>Basic understanding of microbiology, statistics, food safety, and risk analysis concepts</td>
       </tr>
+      <tr>
+        <td>2</td>
+        <td>Predictive Microbiology in Food</td>
+        <td>This course introduces graduate students to predictive microbiology, focusing on the mathematical and statistical models used to predict microbial growth, survival, and inactivation in food systems. The course will cover various predictive models, data analysis methods, and their applications in food safety, quality control, and product development.</td>
+        <td>Graduate Students</td>
+        <td>12 minggu</td>
+        <td>Basic knowledge of microbiology, food safety, and mathematical modeling</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Foodborne Pathogen Detection Based on Nucleic Acid Amplification</td>
+        <td>This course is designed to introduce graduate students to the principles, techniques, and applications of nucleic acid amplification technologies (e.g., PCR) for the detection of foodborne pathogens. Students will learn about the molecular techniques used for pathogen identification, the advantages and limitations of these methods, and how they are applied in food safety testing, regulatory frameworks, and foodborne disease outbreak investigations.</td>
+        <td>Graduate Students</td>
+        <td>12 minggu</td>
+        <td>Basic understanding of microbiology, molecular biology, and food safety</td>
+      </tr>
     </tbody>
 </table>
 {% include base_path %}
