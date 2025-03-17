@@ -11,7 +11,7 @@ Bimbingan Tugas Akhir S1/S2/S3
   <thead>
     <tr>
       <td>Jenis Program</td>
-      <td>Deskrips</td>
+      <td>Deskripsi</td>
       <td>Informasi Tambahan</td>
     </tr>
   </thead>
@@ -33,27 +33,14 @@ Bimbingan Tugas Akhir S1/S2/S3
           <li>Co-pembimbing Profesional.</li>
           <li>Publikasi ilmiah.</li>
         </ul>
+        <b>Tertarik?</b>
+        Daftarkan dirimu melalui tautan ini: <src url = "https://bit.ly/TABRIN">https://bit.ly/TABRIN </src> dan pilih topik KEAMANAN MIKROBA PRODUK PANGAN.<br>
+        Info lebih lanjut, hubungi Dr. Nodali Ndraha, email: nodali.ndraha@brin.go.id
       </td>
       <td><img src = "https://nndraha.github.io/nodali.github.io/images/poster_TA.png" width = "100%"></td>
     </tr>
   </tbody>
 </table>
-
-<img src = "https://nndraha.github.io/nodali.github.io/images/poster_TA.png" width = "55%">
-
-Kelompok Riset Keamanan Pangan di Pusat Riset Teknologi dan Proses Pangan - BRIN membuka kesempatan bagi mahasiswa Sarjana, Magister atau Doktoral untuk menyelesaikan Tugas Akhir (Tesis/Disertasi) di bidang Keamanan Mikroba Produk Pangan. 
-
-Persyaratan:
-* Mahasiswa Sarjana, Magister, atau Doktoral aktif di bidang terkait (Ilmu Pangan, Teknologi Pangan, Bioteknologi, dsb.).
-* Memiliki proposal penelitian yang relevan dengan fokus riset. 
-* Bersedia dibimbing bersama oleh pembimbing dari Perguruan Tinggi asal dan peneliti dari BRIN.
- 
-
-
-Tertarik?
-----
-Daftarkan dirimu melalui tautan ini: https://bit.ly/TABRIN dan pilih topik KEAMANAN MIKROBA PRODUK PANGAN.<br><br>
-Info lebih lanjut, hubungi Dr. Nodali Ndraha, email: nodali.ndraha@brin.go.id<br>
 
 {% include base_path %}
 
