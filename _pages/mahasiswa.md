@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Mahasiswa Aktif dan Non-aktif"
-permalink: /mahasiswa/
+title: "Lab Members"
+permalink: /labmembers/
 author_profile: true
 ---
 

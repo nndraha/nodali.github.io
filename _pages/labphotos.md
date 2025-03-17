@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Fasilitas Laboratorium"
-permalink: /lab/
+title: "Lab Photos"
+permalink: /labphotos/
 author_profile: true
 ---
 

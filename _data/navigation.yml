@@ -11,14 +11,14 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Program Bimbingan"
-    url: /bimbing/    
+  - title: "Student Services"
+    url: /studentservices/    
             
-  - title: "Mahasiswa"
-    url: /mahasiswa/  
+  - title: "Lab Members"
+    url: /labmembers/  
 
-  - title: "Laboratorium"
-    url: /lab/
+  - title: "Lab Photos"
+    url: /labphotos/
 
   - title: "Courses"
     url: /courses/

@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Program Bimbingan Mahasiswa"
-permalink: /bimbing/
+title: "Student Services"
+permalink: /studentservices/
 author_profile: true
 ---
 
