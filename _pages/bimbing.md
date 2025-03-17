@@ -15,7 +15,7 @@ author_profile: true
   </thead>
   <tbody>
     <tr>
-      <td>Bimbingan Tugas Akhir S1/S2/S3</td>
+      <td align = "top">Bimbingan Tugas Akhir S1/S2/S3</td>
       <td>Kelompok Riset Keamanan Pangan di Pusat Riset Teknologi dan Proses Pangan - BRIN membuka kesempatan bagi mahasiswa Sarjana, Magister atau Doktoral untuk menyelesaikan Tugas Akhir (Tesis/Disertasi) di bidang Keamanan Mikroba Produk Pangan. <br>
         <ul>
           <b>Persyaratan:</b>
