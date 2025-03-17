@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Pendanaan Riset dan Kerja Sama"
-permalink: /portfolio/
+permalink: /courses/
 author_profile: true
 ---
 
@@ -9,28 +9,20 @@ author_profile: true
   <thead>
     <tr>
       <th>No.</th>
+      <th>Deskripsi</th>
       <th>Judul</th>
-      <th>Tahun Proyek</th>
-      <th>Total Dana (Rp)</th>
-      <th>Sumber Dana</th>
-      <th>Partner</th>
+      <th>Target</th>
+      <th>Durasi</th>
+      <th>Syarat</th>      
     </tr></thead>
     <tbody>
       <tr>
         <td>1</td>
-        <td>Pengembangan deteksi patogen dan resistensi antiobiotik isolat bakteri dari linkungan produksi keju artisan</td>
-        <td>2025</td>
-        <td>105.000.000,-</td>
-        <td>Rumah Program Organisasi Pertanian dan Pangan - BRIN</td>
-        <td>PRBILD, PRMT, Rumah Keju Jogja<br></td>
-      </tr>
-      <tr>
-        <td>2</td>
-        <td>Pengembangan model prediktif dan kajian risiko kuantitatif patogen pada sayuran hijau yang diproduksi oleh petani lokal di Indonesia di bawah skenario perubahan iklim: Studi kasus di Jawa Tengah</td>
-        <td>2025-2027</td>
-        <td>842.500.000,-</td>
-        <td>Riset dan Inovasi Indonesia Maju Skema Kompetisi</td>
-        <td>Universitas Gajah Mada, Politeknik Kelautan dan Perikanan Jembrana, National Taiwan Ocean Univesity</td>
+        <td>This course is designed to provide graduate students with a comprehensive understanding of the principles, methodologies, and applications of quantitative microbiological risk assessment (QMRA) in the food industry. The course will cover topics ranging from hazard identification, dose-response modeling, exposure assessment, and risk characterization to the application of QMRA in food safety decision-making.<br></td>
+        <td>Quantitative Microbiological Risk Assessment in Food</td>
+        <td>Graduate Students</td>
+        <td>12 minggu</td>
+        <td>Basic understanding of microbiology, statistics, food safety, and risk analysis concepts</td>
       </tr>
     </tbody>
 </table>
