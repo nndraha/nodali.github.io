@@ -9,11 +9,11 @@ author_profile: true
   <thead>
     <tr>
       <th>No.</th>
-      <th>Judul</th>
+      <th>Course Overview</th>
       <th>Deskripsi</th>
-      <th>Target</th>
-      <th>Durasi</th>
-      <th>Syarat</th>      
+      <th>Target Audience</th>
+      <th>Course Duration</th>
+      <th>Prerequisites</th>      
     </tr></thead>
     <tbody>
       <tr>
