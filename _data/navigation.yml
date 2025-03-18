@@ -12,16 +12,16 @@ main:
     url: /project/
 
   - title: "Student Services"
-    url: /studentservices/    
+    url: /studentservices/  
+
+  - title: "Courses"
+    url: /courses/  
             
   - title: "Lab Members"
     url: /labmembers/  
 
   - title: "Lab Photos"
     url: /labphotos/
-
-  - title: "Courses"
-    url: /courses/
 
 #  - title: "Blog Posts"
 #    url: /year-archive/
