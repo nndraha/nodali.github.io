@@ -25,6 +25,11 @@ Pengalaman Riset
 * Pemodelan prediktif terhadap pertumbuhan dan perkembangan bakteri <em>Salmonella</em> dan <em>L. monocytogenes</em> pada selada dan kecambah sayuran.
 * Pemodelan prediktif terhadap perubahan mutu udang segar yang ditransportasikan melalui layanan home-delivery
 
+Sertifikasi dan Pelatihan
+=====
+* Preventive Controls Qualified Individual (ID 40a3b6ec) yang diselenggarakan oleh Food Safety Preventive Controls Alliance (FSPCA)
+* Pelatihan Pemahaman Sistem Manajemen Keamanan Pangan Berdasarkan ISO 22000:2018, Good Manufacturing Practice (GMP), Hazard Analysis and Critical Control Points (HACCP), dan Sanitation Standard Operating Procedure (SSOP) dengan No. 3198-ONT-FSMA-ME-25/IGB-V yang diselenggerakan oleh Mindo Education (PT Impiana Generasi Bangsa).
+
 Afiliasi 
 =====
 <img src = "images/logo_brin.png" width = "60px" /> &nbsp;
