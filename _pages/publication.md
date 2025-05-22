@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-> Artikel lengkap dapat diakses melalui profil Google Scholar.
+{% if site.author.googlescholar %}
+  <div class="wordwrap">Artikel lengkap dapat diakses melalui profil <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
+{% endif %}
 
 ## Artikel Jurnal
 1. Ndraha, N., Lin, C. H., Ping, G. A., Tran, G. D., Su, L. M., Huang, C. L., … & Hsiao, H. I. (2024). Assessment and validation of predictive growth models for locally isolated Salmonella enterica and Listeria monocytogenes in alfalfa sprouts at various temperatures. Journal of Food Safety, 44(5), e13171. DOI: 10.1111/jfs.13171
