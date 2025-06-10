@@ -31,7 +31,7 @@ Certification and Training
 * Preventive Controls Qualified Individual (ID 40a3b6ec) yang diselenggarakan oleh Food Safety Preventive Controls Alliance (FSPCA)
 * Training on the Food Safety Management System based on ISO 22000:2018, Good Manufacturing Practice (GMP), Hazard Analysis and Critical Control Points (HACCP), and Sanitation Standard Operating Procedure (SSOP).
 
-Afiliasi 
+Affiliation  
 =====
 <img src = "images/logo_brin.png" width = "60px" /> &nbsp;
 <img src = "images/logo_prtpp.png" width = "75px" />
