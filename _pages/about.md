@@ -6,25 +6,27 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Saya berperan sebagai peneliti di Pusat Riset Teknologi dan Proses Pangan – Badan Riset dan Inovasi Nasional (BRIN), yang berspesialisasi dalam keamanan pangan dan studi ilmiah terkait. Penelitiannya berpusat pada deteksi patogen, pemodelan prediktif, dan penilaian risiko mikrobia kuantitatif, dengan fokus khusus pada patogen bawaan makanan, khususnya <em>Vibrio parahaemolyticus</em> dalam makanan laut.
+> Advancing Food Safety Through Interdisciplinary Research in Molecular Diagnostics, Predictive Modeling, and Climate Science.
 
-Keahlian saya meluas ke sistem pengendalian pangan, pengelolaan rantai dingin makanan, dan dampak perubahan iklim terhadap keamanan pangan. Saya telah memberikan kontribusi signifikan pada bidang ini melalui banyak publikasi di jurnal ilmiah terkemuka, termasuk penelitian tentang pengembangan metode deteksi cepat untuk patogen bawaan makanan. Bidang keahliannya mencakup penilaian risiko mikrobia, dampak perubahan iklim, dan pemodelan prediktif, yang menyoroti dedikasinya untuk memajukan pengetahuan dan praktik terkait dengan keamanan pangan pada skala nasional dan berpotensi global.
+As a Junior Researcher at Indonesia’s National Research and Innovation Agency (BRIN) within the Research Center for Food Technology and Processing, I feel privileged to contribute to meaningful national research projects. In my role as a Principal Investigator leading a laboratory, I strive to blend food safety knowledge with risk management to address complex challenges thoughtfully.
 
-Pendidikan 
+Through my research, I’ve explored pathogen behavior in foods like tilapia, oysters, lettuce, and alfalfa sprouts, hoping to guide effective control strategies. I’m grateful for the opportunity to offer practical suggestions, such as storing lettuce at 5°C or lower to slow microbial growth and studying Vibrio parahaemolyticus in seafood to propose control measures. I also work on understanding food waste management in cold chains. My approach humbly combines tools like PCR, real-time PCR, predictive microbiology, QMRA, machine learning, and nanotechnology to address microbial risks, climate change impacts, and innovative nanomaterials. As a Principal Investigator, I hope to continue refining pathogen detection, developing AI-driven risk models, and supporting climate-resilient food safety strategies to contribute, in my small way, to public health and food security.
+
+Academic Background 
 =====
-* S1 : Universitas Sumatera Utara, Keteknikan Pertanian
-* S2 : National Taiwan Ocean University, Food Science
-* S3 : National Taiwan Ocean University, Food Science
+I earned my Master of Science (M.Sc.) and Doctor of Philosophy (Ph.D) in Food Science from the National Taiwan Ocean University (NTOU).
 
-Pengalaman Riset 
+My Core Research Pillars 
 =====
-* Pengembangan deteksi patogen <em>Salmonella</em> dan <em>L. monocytogenes</em> pada daging ayam menggunakan pendekatan molekuler berbasis asam nukleat yang dikombinasikan dengan teknologi elektroforesis kapilaritas
-* Kajian potensi dampak perubahan iklim terhadap risiko keamanan mikroba <em>V. parahaemolyticus</em> pada tiram laut
-* Pemodelan prediktif terhadap kemunculan bakteri <em>V. parahaemolyticus</em> pada tiram laut mentah.
-* Pemodelan prediktif terhadap pertumbuhan dan perkembangan bakteri <em>Salmonella</em> dan <em>L. monocytogenes</em> pada selada dan kecambah sayuran.
-* Pemodelan prediktif terhadap perubahan mutu udang segar yang ditransportasikan melalui layanan home-delivery
+* Advanced Pathogen Diagnostics, focus on developing and advancing molecular techniques for the rapid and sensitive detection of foodborne pathogens
+* Predictive Modeling & QMRA, utilize mathematical models and quantitative microbial risk assessment (QMRA) to forecast microbial behavior and assess health risks.
+* Climate Change & Food Safety, investigate the impact of climate change on the ecology of foodborne pathogens, particularly in marine environments.
 
-Sertifikasi dan Pelatihan
+Portfolio of Key Publications and Scholarly Communications
+=====
+As a researcher, I’ve been fortunate to contribute to peer-reviewed publications between 2020 and 2024, with my work appearing in international journals such as Comprehensive Reviews in Food Science and Food Safety, Foods, and Microbial Risk Analysis, among others. I’m grateful for the opportunity to often serve as the first author on these publications. My work is indexed in databases like Web of Science Core Collection and Scopus, and I’m humbled that it has received citations. I’ve also had the privilege of presenting my research at scientific gatherings, including IAFP’s European Symposium on Food Safety, where I’ve shared my findings with the broader community.
+
+Certification and Training
 =====
 * Preventive Controls Qualified Individual (ID 40a3b6ec) yang diselenggarakan oleh Food Safety Preventive Controls Alliance (FSPCA)
 * Pelatihan Pemahaman Sistem Manajemen Keamanan Pangan Berdasarkan ISO 22000:2018, Good Manufacturing Practice (GMP), Hazard Analysis and Critical Control Points (HACCP), dan Sanitation Standard Operating Procedure (SSOP) dengan No. 3198-ONT-FSMA-ME-25/IGB-V yang diselenggerakan oleh Mindo Education (PT Impiana Generasi Bangsa).
