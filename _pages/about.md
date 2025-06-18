@@ -16,6 +16,7 @@ Through his research, He has explored pathogen behavior in foods like tilapia, o
 
 Academic Background 
 =====
+
 | Title | Focus | Institution |
 | --- | --- | --- |
 | Bachelor (S.T.P.) | Agicultural Engineering | University of North Sumatera |
