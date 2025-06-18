@@ -12,7 +12,7 @@ Dr. Nodali Ndraha is a Junior Researcher at Indonesia’s National Research and 
 
 He also have presented research at scientific conferences such as IAFP’s European Symposium on Food Safety, sharing findings with the global food safety community. His work advances critical understanding in food science and microbial risk analysis.
 
-Through his research, He has explored pathogen behavior in foods like tilapia, oysters, lettuce, and alfalfa sprouts, hoping to guide effective control strategies. His approach combines tools like PCR, predictive microbiology, QMRA, and machine learning to address microbial risks and climate change impacts. As a Principal Investigator, He hope to continue refining pathogen detection, developing AI-driven risk models, and supporting climate-resilient food safety strategies to contribute, in my small way, to public health and food security.
+Through his research, he has explored pathogen behavior in foods like tilapia, oysters, lettuce, and alfalfa sprouts, hoping to guide effective control strategies. His approach combines tools like PCR, predictive microbiology, QMRA, and machine learning to address microbial risks and climate change impacts. As a Principal Investigator, He hope to continue refining pathogen detection, developing AI-driven risk models, and supporting climate-resilient food safety strategies to contribute, in my small way, to public health and food security.
 
 Academic Background 
 =====
