@@ -4,7 +4,7 @@ title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  - /about.md
 ---
 > Advancing Food Safety Through Interdisciplinary Research in Molecular Diagnostics, Predictive Modeling, and Climate Science.
 
@@ -17,7 +17,7 @@ Through his research, He has explored pathogen behavior in foods like tilapia, o
 Academic Background 
 =====
 | Title | Focus | Institution |
-| ----- | ----- | ----------- |
+| --- | --- | --- |
 | Bachelor (S.T.P.) | Agicultural Engineering | University of North Sumatera |
 | Master (M.Sc.) | Food Science | National Taiwan Ocean University |
 | Doctor (Ph.D) | Food Science | National Taiwan Ocean University |
