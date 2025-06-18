@@ -8,13 +8,20 @@ redirect_from:
 ---
 > Advancing Food Safety Through Interdisciplinary Research in Molecular Diagnostics, Predictive Modeling, and Climate Science.
 
-As a Junior Researcher at Indonesia’s National Research and Innovation Agency (BRIN) within the Research Center for Food Technology and Processing, I feel privileged to contribute to meaningful national research projects. In my role as a Principal Investigator leading a laboratory, I strive to blend food safety knowledge with risk management to address complex challenges thoughtfully.
+Dr. Nodali Ndraha is a Junior Researcher at Indonesia’s National Research and Innovation Agency (BRIN) within the Research Center for Food Technology and Processing. He is an active researcher who has contributed to multiple peer-reviewed publications in prominent international journals since 2017. His work appears in reputable journals, including <em>Comprehensive Reviews in Food Science and Food Safety</em>, <em>Food Control</em>, <em>Food Microbiology</em>, <em>Foods</em>, <em>Microbial Risk Analysis</em>, and others, frequently as first author. Most of his publications are indexed in databases including the Web of Science Core Collection and Scopus and have received scholarly citations.
 
-Through my research, I’ve explored pathogen behavior in foods like tilapia, oysters, lettuce, and alfalfa sprouts, hoping to guide effective control strategies. I’m grateful for the opportunity to offer practical suggestions, such as storing lettuce at 5°C or lower to slow microbial growth and studying <em>Vibrio parahaemolyticus</em> in seafood to propose control measures. I also work on understanding food waste management in cold chains. My approach combines tools like PCR, predictive microbiology, QMRA, and machine learning to address microbial risks and climate change impacts. As a Principal Investigator, I hope to continue refining pathogen detection, developing AI-driven risk models, and supporting climate-resilient food safety strategies to contribute, in my small way, to public health and food security.
+He also have presented research at scientific conferences such as IAFP’s European Symposium on Food Safety, sharing findings with the global food safety community. His work advances critical understanding in food science and microbial risk analysis.
+
+Through his research, He has explored pathogen behavior in foods like tilapia, oysters, lettuce, and alfalfa sprouts, hoping to guide effective control strategies. His approach combines tools like PCR, predictive microbiology, QMRA, and machine learning to address microbial risks and climate change impacts. As a Principal Investigator, He hope to continue refining pathogen detection, developing AI-driven risk models, and supporting climate-resilient food safety strategies to contribute, in my small way, to public health and food security.
 
 Academic Background 
 =====
-I earned my Master of Science (M.Sc.) and Doctor of Philosophy (Ph.D) in Food Science from the National Taiwan Ocean University (NTOU).
+| Title | Focus | Institution |
+| ----- | ----- | ----------- |
+| Bachelor (S.T.P.) | Agicultural Engineering | University of North Sumatera |
+| Master (M.Sc.) | Food Science | National Taiwan Ocean University |
+| Doctor (Ph.D) | Food Science | National Taiwan Ocean University |
+
 
 My Core Research Pillars 
 =====
@@ -22,9 +29,6 @@ My Core Research Pillars
 * Predictive Modeling & QMRA, utilize mathematical models and quantitative microbial risk assessment (QMRA) to forecast microbial behavior and assess health risks.
 * Climate Change & Food Safety, investigate the impact of climate change on the ecology of foodborne pathogens, particularly in marine environments.
 
-Portfolio of Key Publications and Scholarly Communications
-=====
-As a researcher, I’ve been fortunate to contribute to peer-reviewed publications between 2020 and 2024, with my work appearing in international journals such as Comprehensive Reviews in Food Science and Food Safety, Foods, and Microbial Risk Analysis, among others. I’m grateful for the opportunity to often serve as the first author on these publications. My work is indexed in databases like Web of Science Core Collection and Scopus, and I’m humbled that it has received citations. I’ve also had the privilege of presenting my research at scientific gatherings, including IAFP’s European Symposium on Food Safety, where I’ve shared my findings with the broader community.
 
 Certification and Training
 =====
